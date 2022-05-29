@@ -47,7 +47,7 @@ const SideBar = () => {
       <div className='sidebar__search'>
         <div className='sidebar__search--container'>
           <SearchOutlinedIcon />
-          <input type='text' placeholder='Search or start new chat' />
+          <input type='text' placeholder='Search Chat Room' />
         </div>
       </div>
       <div className='sidebar__chats'>
